@@ -1,0 +1,10 @@
+c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\obj\Debug\Checkr.csprojResolveAssemblyReference.cache
+c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\obj\Debug\Checkr.Properties.Resources.resources
+c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\obj\Debug\Checkr.csproj.GenerateResource.Cache
+c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\bin\Debug\Checkr.exe
+c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\bin\Debug\Checkr.pdb
+c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\bin\Debug\MetroFramework.dll
+c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\bin\Debug\MetroFramework.Fonts.dll
+c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\obj\Debug\Checkr.exe
+c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\obj\Debug\Checkr.pdb
+c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\obj\Debug\Checkr.Forms.Login.resources
