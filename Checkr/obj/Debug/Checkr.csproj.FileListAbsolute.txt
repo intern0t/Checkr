@@ -8,3 +8,5 @@ c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\bin\Debug\Metro
 c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\obj\Debug\Checkr.exe
 c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\obj\Debug\Checkr.pdb
 c:\users\pms\documents\visual studio 2015\Projects\Checkr\Checkr\obj\Debug\Checkr.Forms.Login.resources
+C:\Users\pms\Documents\GitHub\Checkr\Checkr\obj\Debug\Checkr.exe
+C:\Users\pms\Documents\GitHub\Checkr\Checkr\obj\Debug\Checkr.pdb
